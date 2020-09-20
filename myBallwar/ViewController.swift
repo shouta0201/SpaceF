@@ -19,10 +19,6 @@ class ViewController: UIViewController,UIAlertViewDelegate,GADBannerViewDelegate
     // AdMob ID を入れてください
     let AdMobID = "ca-app-pub-3863821336817317/4030222787"
     
-    
-    
-    
-    
     let TEST_ID = "ca-app-pub-3940256099942544/2934735716"
     
     let AdMobTest:Bool = false
